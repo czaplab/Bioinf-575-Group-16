@@ -1,0 +1,349 @@
+Gene_ID,Gene_Name,Drug_ID,Drug_Name
+hsa:5289,"PIK3C3, VPS34, hVps34; phosphatidylinositol 3-kinase catalytic subunit type 3",dr:D05784,Safingol (USAN/INN)
+hsa:5289,"PIK3C3, VPS34, hVps34; phosphatidylinositol 3-kinase catalytic subunit type 3",dr:D05785,Safingol hydrochloride (USAN)
+hsa:5289,"PIK3C3, VPS34, hVps34; phosphatidylinositol 3-kinase catalytic subunit type 3",dr:D11319,Fimepinostat (USAN/INN)
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D03150,Bortezomib (JAN/USAN/INN);
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D08880,Carfilzomib (JAN/USAN/INN);
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D09640,Marizomib (USAN/INN)
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D10110,Delanzomib (USAN)
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D10130,Ixazomib (USAN)
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D10131,Ixazomib citrate (JAN/USAN);
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D10318,Oprozomib (USAN/INN)
+hsa:5693,"PSMB5, LMPX, MB1; proteasome 20S subunit beta 5",dr:D12311,Bortezomib hydrate (JAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D00491,Paclitaxel (JAN/USP/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D00570,Colchicine (JP18/USP);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D01068,Vinblastine sulfate (JP18/USP);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D01769,Vindesine sulfate (JAN/USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D01919,Soblidotin (JAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D01935,Vinorelbine tartrate (USP);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D02165,Docetaxel (USP);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D02197,Vincristine sulfate (JP18/USP);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D02398,Estramustine phosphate sodium (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D03059,Batabulin sodium (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D03364,Cantuzumab mertansine (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D04066,Estramustine (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D04645,Ixabepilone (JAN/USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D04864,Maytansine (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D05062,Mivobulin isethionate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D05333,Paclitaxel poliglumex (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06001,Taltobulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06009,Tasidotin hydrochloride (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06304,Vindesine (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06305,Vinepidine sulfate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06306,Vinglycinate sulfate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06307,Vinleurosine sulfate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06308,Vinrosidine sulfate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06309,Vinzolidine sulfate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06397,Estramustine phosphate sodium hydrate (JAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06560,Batabulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D06576,Cevipabulin fumarate (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D07866,Docetaxel (JAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D08675,Vinblastine (INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D08679,Vincristine (INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D08680,Vinorelbine (INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D08889,Cevipabulin succinate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D08914,Eribulin mesylate (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09032,Vinflunine ditartrate (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09587,Brentuximab vedotin (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09691,Vedotin (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09755,Cabazitaxel (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09912,Glembatumumab vedotin (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09927,Lorvotuzumab mertansine (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D09980,Trastuzumab emtansine (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10013,Indibulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10029,Verubulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10030,Verubulin hydrochloride (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10073,Lexibulin (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10452,Cabazitaxel acetonate (JAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10454,Cantuzumab ravtansine (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D10954,Mirvetuximab soravtansine (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11228,Soravtansine (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11232,Denintuzumab mafodotin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11238,Lifastuzumab vedotin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11494,Lisavanbulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11525,Enfortumab vedotin (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11595,Belantamab mafodotin (USAN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11681,Avanbulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11691,Tirbanibulin (JAN/USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11692,Tirbanibulin mesylate (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D11814,Tisotumab vedotin (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12183,Farletuzumab ecteribulin (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12210,Ozuriftmab vedotin (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12220,Mecbotamab vedotin
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12310,Tusamitamab ravtansine (USAN/INN);
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12519,Sabizabulin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12520,Sabizabulin hydrochloride (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12582,Opadotin (USAN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12583,Anvatabart opadotin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12916,Oberotatug ravtansine (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D12989,Disitamab vedotin (USAN/INN)
+hsa:203068,"TUBB, CDCBM6, CSCSC1, M40, OK/SW-cl.56, TUBB1, TUBB5; tubulin beta class I",dr:D13007,Sigvotatug vedotin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D00491,Paclitaxel (JAN/USP/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D00570,Colchicine (JP18/USP);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D01068,Vinblastine sulfate (JP18/USP);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D01769,Vindesine sulfate (JAN/USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D01919,Soblidotin (JAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D01935,Vinorelbine tartrate (USP);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D02165,Docetaxel (USP);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D02197,Vincristine sulfate (JP18/USP);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D02398,Estramustine phosphate sodium (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D03059,Batabulin sodium (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D03364,Cantuzumab mertansine (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D04066,Estramustine (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D04645,Ixabepilone (JAN/USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D04864,Maytansine (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D05062,Mivobulin isethionate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D05333,Paclitaxel poliglumex (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06001,Taltobulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06009,Tasidotin hydrochloride (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06304,Vindesine (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06305,Vinepidine sulfate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06306,Vinglycinate sulfate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06307,Vinleurosine sulfate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06308,Vinrosidine sulfate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06309,Vinzolidine sulfate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06397,Estramustine phosphate sodium hydrate (JAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06560,Batabulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D06576,Cevipabulin fumarate (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D07866,Docetaxel (JAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D08675,Vinblastine (INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D08679,Vincristine (INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D08680,Vinorelbine (INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D08889,Cevipabulin succinate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D08914,Eribulin mesylate (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09032,Vinflunine ditartrate (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09587,Brentuximab vedotin (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09691,Vedotin (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09755,Cabazitaxel (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09912,Glembatumumab vedotin (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09927,Lorvotuzumab mertansine (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D09980,Trastuzumab emtansine (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10013,Indibulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10029,Verubulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10030,Verubulin hydrochloride (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10073,Lexibulin (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10452,Cabazitaxel acetonate (JAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10454,Cantuzumab ravtansine (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D10954,Mirvetuximab soravtansine (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11228,Soravtansine (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11232,Denintuzumab mafodotin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11238,Lifastuzumab vedotin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11494,Lisavanbulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11525,Enfortumab vedotin (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11595,Belantamab mafodotin (USAN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11681,Avanbulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11691,Tirbanibulin (JAN/USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11692,Tirbanibulin mesylate (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D11814,Tisotumab vedotin (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12183,Farletuzumab ecteribulin (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12210,Ozuriftmab vedotin (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12220,Mecbotamab vedotin
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12310,Tusamitamab ravtansine (USAN/INN);
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12519,Sabizabulin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12520,Sabizabulin hydrochloride (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12582,Opadotin (USAN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12583,Anvatabart opadotin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12916,Oberotatug ravtansine (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D12989,Disitamab vedotin (USAN/INN)
+hsa:347688,"TUBB8, OOMD, OOMD2, OZEMA2, bA631M21.2; tubulin beta 8 class VIII",dr:D13007,Sigvotatug vedotin (USAN/INN)
+hsa:5690,"PSMB2, HC7-I; proteasome 20S subunit beta 2",dr:D09640,Marizomib (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D00491,Paclitaxel (JAN/USP/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D00570,Colchicine (JP18/USP);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D01068,Vinblastine sulfate (JP18/USP);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D01769,Vindesine sulfate (JAN/USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D01919,Soblidotin (JAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D01935,Vinorelbine tartrate (USP);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D02165,Docetaxel (USP);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D02197,Vincristine sulfate (JP18/USP);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D02398,Estramustine phosphate sodium (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D03059,Batabulin sodium (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D03364,Cantuzumab mertansine (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D04066,Estramustine (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D04645,Ixabepilone (JAN/USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D04864,Maytansine (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D05062,Mivobulin isethionate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D05333,Paclitaxel poliglumex (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06001,Taltobulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06009,Tasidotin hydrochloride (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06304,Vindesine (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06305,Vinepidine sulfate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06306,Vinglycinate sulfate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06307,Vinleurosine sulfate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06308,Vinrosidine sulfate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06309,Vinzolidine sulfate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06397,Estramustine phosphate sodium hydrate (JAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06560,Batabulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D06576,Cevipabulin fumarate (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D07866,Docetaxel (JAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D08675,Vinblastine (INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D08679,Vincristine (INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D08680,Vinorelbine (INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D08889,Cevipabulin succinate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D08914,Eribulin mesylate (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09032,Vinflunine ditartrate (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09587,Brentuximab vedotin (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09691,Vedotin (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09755,Cabazitaxel (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09912,Glembatumumab vedotin (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09927,Lorvotuzumab mertansine (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D09980,Trastuzumab emtansine (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10013,Indibulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10029,Verubulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10030,Verubulin hydrochloride (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10073,Lexibulin (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10452,Cabazitaxel acetonate (JAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10454,Cantuzumab ravtansine (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D10954,Mirvetuximab soravtansine (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11228,Soravtansine (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11232,Denintuzumab mafodotin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11238,Lifastuzumab vedotin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11494,Lisavanbulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11525,Enfortumab vedotin (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11595,Belantamab mafodotin (USAN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11681,Avanbulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11691,Tirbanibulin (JAN/USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11692,Tirbanibulin mesylate (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D11814,Tisotumab vedotin (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12183,Farletuzumab ecteribulin (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12210,Ozuriftmab vedotin (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12220,Mecbotamab vedotin
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12310,Tusamitamab ravtansine (USAN/INN);
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12519,Sabizabulin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12520,Sabizabulin hydrochloride (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12582,Opadotin (USAN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12583,Anvatabart opadotin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12916,Oberotatug ravtansine (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D12989,Disitamab vedotin (USAN/INN)
+hsa:10381,"TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4; tubulin beta 3 class III",dr:D13007,Sigvotatug vedotin (USAN/INN)
+hsa:842,"CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56; caspase 9",dr:D11195,Rimiducid (USAN/INN)
+hsa:4842,"NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS; nitric oxide synthase 1",dr:D05479,Pimagedine hydrochloride (USAN);
+hsa:4842,"NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS; nitric oxide synthase 1",dr:D09018,Tilarginine acetate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D00491,Paclitaxel (JAN/USP/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D00570,Colchicine (JP18/USP);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D01068,Vinblastine sulfate (JP18/USP);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D01769,Vindesine sulfate (JAN/USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D01919,Soblidotin (JAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D01935,Vinorelbine tartrate (USP);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D02165,Docetaxel (USP);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D02197,Vincristine sulfate (JP18/USP);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D02398,Estramustine phosphate sodium (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D03059,Batabulin sodium (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D03364,Cantuzumab mertansine (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D04066,Estramustine (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D04645,Ixabepilone (JAN/USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D04864,Maytansine (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D05062,Mivobulin isethionate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D05333,Paclitaxel poliglumex (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06001,Taltobulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06009,Tasidotin hydrochloride (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06304,Vindesine (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06305,Vinepidine sulfate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06306,Vinglycinate sulfate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06307,Vinleurosine sulfate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06308,Vinrosidine sulfate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06309,Vinzolidine sulfate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06397,Estramustine phosphate sodium hydrate (JAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06560,Batabulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D06576,Cevipabulin fumarate (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D07866,Docetaxel (JAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D08675,Vinblastine (INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D08679,Vincristine (INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D08680,Vinorelbine (INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D08889,Cevipabulin succinate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D08914,Eribulin mesylate (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09032,Vinflunine ditartrate (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09587,Brentuximab vedotin (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09691,Vedotin (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09755,Cabazitaxel (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09912,Glembatumumab vedotin (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09927,Lorvotuzumab mertansine (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D09980,Trastuzumab emtansine (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10013,Indibulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10029,Verubulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10030,Verubulin hydrochloride (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10073,Lexibulin (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10452,Cabazitaxel acetonate (JAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10454,Cantuzumab ravtansine (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D10954,Mirvetuximab soravtansine (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11228,Soravtansine (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11232,Denintuzumab mafodotin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11238,Lifastuzumab vedotin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11494,Lisavanbulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11525,Enfortumab vedotin (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11595,Belantamab mafodotin (USAN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11681,Avanbulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11691,Tirbanibulin (JAN/USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11692,Tirbanibulin mesylate (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D11814,Tisotumab vedotin (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12183,Farletuzumab ecteribulin (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12210,Ozuriftmab vedotin (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12220,Mecbotamab vedotin
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12310,Tusamitamab ravtansine (USAN/INN);
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12519,Sabizabulin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12520,Sabizabulin hydrochloride (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12582,Opadotin (USAN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12583,Anvatabart opadotin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12916,Oberotatug ravtansine (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D12989,Disitamab vedotin (USAN/INN)
+hsa:347733,"TUBB2B, CDCBM7, PMGYSA, bA506K6.1; tubulin beta 2B class IIb",dr:D13007,Sigvotatug vedotin (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00536,Felbamate (USPINN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00711,Ketamine hydrochloride (JP18/USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00774,Orphenadrine citrate (USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00775,Riluzole (JAN/USP/INN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00777,Amantadine hydrochloride (JP18/USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D00848,Dextromethorphan hydrobromide (USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D02102,Methadone hydrochloride (JAN/USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D02410,Selfotel (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D02599,Orphenadrine hydrochloride;
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D02780,Acamprosate calcium (JAN/USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D02973,Aptiganel hydrochloride (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D03679,Delucemine hydrochloride (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D03742,Dextromethorphan (USP)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D03744,Dextromethorphan polistirex (USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D03746,Dextrorphan hydrochloride (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D03878,Dizocilpine maleate (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D04308,Gavestinel (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D04728,Licostinel (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D04905,Memantine hydrochloride (JAN/USP);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D05447,Perzinfotel (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D05453,Phencyclidine hydrochloride (USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D05714,Remacemide hydrochloride (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D06146,Tiletamine hydrochloride (USP)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D07058,Acamprosate (INN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D07283,Esketamine (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D07306,Budipine (INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D07441,Amantadine (INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D07589,Budipine hydrochloride;
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08098,Ketamine (INN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08121,Levomethadone (INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08122,Levomethadone hydrochloride;
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08174,Memantine (INN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08195,Methadone (BAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08305,Orphenadrine (INN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D08596,Tiletamine (INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D09917,Latrepirdine (USAN/INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D09918,Latrepirdine dihydrochloride (USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D10627,Esketamine hydrochloride (JAN/USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D11299,Apimostinel (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D11414,Troriluzole (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D11415,Troriluzole hydrochloride (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12214,Esmethadone (USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12215,Esmethadone hydrochloride (USAN);
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12553,Nevadistinel (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12554,Risevistinel (USAN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12702,Tenocyclidine (INN)
+hsa:2902,"GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1; glutamate ionotropic receptor NMDA type subunit 1",dr:D12788,Dalzanemdor (USAN/INN)
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D00107,Tacrolimus (USP/INN);
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D00184,Cyclosporine (USP);
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D05480,Pimecrolimus (JAN/USAN/INN);
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D08556,Tacrolimus (INN);
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D09033,Voclosporin (JAN/USAN/INN);
+hsa:5530,"PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B; protein phosphatase 3 catalytic subunit alpha",dr:D10983,Ruclosporin (USAN/INN)
+hsa:5689,"PSMB1, HC5, NEDMHAL, PMSB1, PSC5; proteasome 20S subunit beta 1",dr:D09640,Marizomib (USAN/INN)
+hsa:5689,"PSMB1, HC5, NEDMHAL, PMSB1, PSC5; proteasome 20S subunit beta 1",dr:D10110,Delanzomib (USAN)
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D00107,Tacrolimus (USP/INN);
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D00184,Cyclosporine (USP);
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D05480,Pimecrolimus (JAN/USAN/INN);
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D08556,Tacrolimus (INN);
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D09033,Voclosporin (JAN/USAN/INN);
+hsa:5535,"PPP3R2, PPP3RL; protein phosphatase 3 regulatory subunit B, beta",dr:D10983,Ruclosporin (USAN/INN)
